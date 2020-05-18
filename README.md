@@ -2,6 +2,6 @@
 Public Domain Art Viewer
 
 ## Download
-[Windows](Windows/pdav.exe) [Mac]() [Linux]()
+[Windows](Windows/pdav.exe?raw=true) [Mac]() [Linux]()
 
 ![PDAV Screenshot](img/pdav_mouseover.JPG)
