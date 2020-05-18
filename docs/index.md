@@ -34,4 +34,9 @@ Keys: arrows to advance art, spacebar to pause, p or ? for plaque, d for directo
 -a, --authority_file Uses an alternate authority
 ```
 
+## Tin Cup
+Whatever you can give, your sponsorship is appreciated. This project was 3 years in the making. In addition to keeping this project running, it would help make a statement that you support this type of work. Thank you.
+### [Github Sponsorship](https://github.com/sponsors/alexreich)
+### [Patreon Sponsorship](https://www.patreon.com/pdav)
+
 ![PDAV Screenshot](img/pdav_mouseover.JPG)
